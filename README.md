@@ -49,7 +49,3 @@ A graphical visualization of the Decision Tree is created using the `tree.plot_t
 ## Conclusion
 
 This project demonstrates the use of a Decision Tree Algorithm to classify iris flowers based on their features. The visualization of the Decision Tree provides insights into the decision-making process of the classifier. You can further analyze the tree for insights and adapt the code for similar classification tasks.
-
----
-
-You can create a README.md file in your GitHub repository and paste this content to provide an explanation of your project and how to use it.
